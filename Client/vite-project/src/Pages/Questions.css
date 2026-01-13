@@ -1,0 +1,38 @@
+.questions-page {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.question-block {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.question-text {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.options {
+  padding-left: 20px;
+}
+
+.options li {
+  margin-bottom: 6px;
+}
+
+.answer {
+  margin-top: 10px;
+  color: #16a34a;
+  font-weight: bold;
+}
+
+.answer-key {
+  margin-top: 40px;
+  padding: 20px;
+  border-top: 2px solid #e5e7eb;
+}

@@ -1,0 +1,15 @@
+.question-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+.question-card h4 {
+  margin-bottom: 12px;
+}
+
+.question-card label {
+  display: block;
+  margin-bottom: 6px;
+}
