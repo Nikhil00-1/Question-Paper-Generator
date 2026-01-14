@@ -4,7 +4,7 @@ import Landing from "./Pages/Landing";
 import Generator from "./Pages/Generator";
 import Questions from "./Pages/Questions";
 import Features from "./Pages/Features";
-import Contact from "./Pages/Contact";
+import Contact from "./Pages/contact";
 
 function App() {
   return (
